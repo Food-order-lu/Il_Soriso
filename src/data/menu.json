@@ -1,0 +1,100 @@
+{
+  "categories": [
+    {
+      "id": "specialties",
+      "name": "Nos Spécialités Géantes",
+      "description": "Pizzas rectangulaires 48x50cm, idéales pour partager. Pâte artisanale à longue fermentation.",
+      "items": [
+        {
+          "name": "La Sorriso",
+          "description": "Sauce tomate, mozzarella, salami, viande hachée, oignons rouges, basilic frais.",
+          "price": 28.50,
+          "slice": 5.00
+        },
+        {
+          "name": "L'Escher",
+          "description": "Sauce tomate, mozzarella, salami piquant, ail, anchois, câpres.",
+          "price": 27.00,
+          "slice": 4.80
+        },
+        {
+          "name": "Carne Dolce",
+          "description": "Sauce tomate, mozzarella, boeuf haché, maïs, poivrons doux, oignons.",
+          "price": 27.50,
+          "slice": 4.90
+        },
+        {
+          "name": "Salmone",
+          "description": "Crème fraîche, mozzarella, saumon fumé de qualité, aneth, citron.",
+          "price": 30.00,
+          "slice": 5.50
+        }
+      ]
+    },
+    {
+      "id": "classics",
+      "name": "Les Classiques",
+      "description": "Les incontournables de la tradition italienne.",
+      "items": [
+        {
+          "name": "Margherita",
+          "description": "Sauce tomate, mozzarella fior di latte, basilic frais, huile d'olive extra vierge.",
+          "price": 22.00,
+          "slice": 4.00
+        },
+        {
+          "name": "Regina",
+          "description": "Sauce tomate, mozzarella, jambon cuit, champignons frais.",
+          "price": 24.00,
+          "slice": 4.50
+        },
+        {
+          "name": "Diavola",
+          "description": "Sauce tomate, mozzarella, salami piquant, piment frais.",
+          "price": 24.50,
+          "slice": 4.60
+        },
+        {
+          "name": "Quattro Formaggi",
+          "description": "Mozzarella, gorgonzola, taleggio, parmesan râpé.",
+          "price": 26.00,
+          "slice": 4.80
+        }
+      ]
+    },
+    {
+      "id": "snacks",
+      "name": "Panzerottos & En-cas",
+      "description": "Parfait pour une faim rapide ou en accompagnement.",
+      "items": [
+        {
+          "name": "Panzerotto Classico",
+          "description": "Chausson cuit au four, sauce tomate, mozzarella, jambon.",
+          "price": 6.00
+        },
+        {
+          "name": "Panzerotto Speciale",
+          "description": "Sauce tomate, mozzarella, salami piquant, oignons.",
+          "price": 6.50
+        }
+      ]
+    },
+    {
+      "id": "desserts",
+      "name": "Desserts Maison",
+      "description": "La touche sucrée indispensable pour finir en beauté.",
+      "items": [
+        {
+          "name": "Tiramisu de Massimo",
+          "description": "La recette traditionnelle, crémeuse et légère.",
+          "price": 4.00
+        },
+        {
+          "name": "Dessert du Jour",
+          "description": "Demandez notre création du moment.",
+          "price": 4.00
+        }
+      ]
+    }
+  ]
+}
