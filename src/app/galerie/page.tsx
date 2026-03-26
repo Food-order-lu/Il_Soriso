@@ -2,12 +2,12 @@ import Image from "next/image";
 
 export default function GaleriePage() {
   const images = [
-    { src: "/images/hero_pizza.png", alt: "Notre célèbre Pizza Géante" },
-    { src: "/images/chef-real.png", alt: "Massimo à l'œuvre" },
-    { src: "/images/dishes-real.png", alt: "Nos pizzas fraîches" },
-    { src: "/images/prep-real.png", alt: "Savoir-faire artisanal" },
-    { src: "/images/interior-real.png", alt: "Cadre convivial" },
-    { src: "/images/panzerotto.png", alt: "Spécialité Panzerotto" },
+    { src: "/Il_Soriso/images/hero_pizza.png", alt: "Notre célèbre Pizza Géante" },
+    { src: "/Il_Soriso/images/chef-real.png", alt: "Massimo à l'œuvre" },
+    { src: "/Il_Soriso/images/dishes-real.png", alt: "Nos pizzas fraîches" },
+    { src: "/Il_Soriso/images/prep-real.png", alt: "Savoir-faire artisanal" },
+    { src: "/Il_Soriso/images/interior-real.png", alt: "Cadre convivial" },
+    { src: "/Il_Soriso/images/panzerotto.png", alt: "Spécialité Panzerotto" },
   ];
 
   return (

@@ -19,7 +19,7 @@ export default function RootLayout({
         <header className="main-header">
           <div className="container header-container">
             <Link href="/" className="logo-container">
-              <Image src="/images/logo.png" alt="Il Sorriso Logo" width={150} height={60} className="logo-img" />
+              <Image src="/Il_Soriso/images/logo.png" alt="Il Sorriso Logo" width={150} height={60} className="logo-img" />
             </Link>
             <nav className="main-nav">
               <ul>
@@ -43,7 +43,7 @@ export default function RootLayout({
         <footer className="main-footer">
           <div className="footer-container container">
             <div className="footer-brand">
-              <Image src="/images/logo.png" alt="Il Sorriso Logo" width={120} height={50} className="footer-logo" />
+              <Image src="/Il_Soriso/images/logo.png" alt="Il Sorriso Logo" width={120} height={50} className="footer-logo" />
               <p className="mt-4">L'authentique pizza napolitaine au cœur d'Esch-sur-Alzette.</p>
             </div>
             <div className="footer-links">

@@ -19,7 +19,7 @@ export default function Home() {
           </div>
           <div className="hero-image-wrapper">
             <Image 
-              src="/images/hero_pizza.png" 
+              src="/Il_Soriso/images/hero_pizza.png" 
               alt="Pizza Rectangulaire Géante Il Sorriso" 
               width={600} 
               height={400} 
@@ -35,7 +35,7 @@ export default function Home() {
         <div className="container concept-container">
           <div className="concept-image">
             <Image 
-              src="/images/interior-real.png" 
+              src="/Il_Soriso/images/interior-real.png" 
               alt="Intérieur Pizzeria Il Sorriso" 
               width={500} 
               height={500} 
@@ -63,7 +63,7 @@ export default function Home() {
           <div className="specialties-grid">
             <div className="specialty-card">
               <div className="card-image">
-                <Image src="/images/hero_pizza.png" alt="Pizza Géante" width={400} height={250} />
+                <Image src="/Il_Soriso/images/hero_pizza.png" alt="Pizza Géante" width={400} height={250} />
               </div>
               <div className="card-content">
                 <h3>Pizza Géante (48x50cm)</h3>
@@ -73,7 +73,7 @@ export default function Home() {
             </div>
             <div className="specialty-card">
                 <div className="card-image">
-                  <Image src="/images/dishes-real.png" alt="Nos Spécialités" width={400} height={250} />
+                  <Image src="/Il_Soriso/images/dishes-real.png" alt="Nos Spécialités" width={400} height={250} />
                 </div>
               <div className="card-content">
                 <h3>Panzerotto au Four</h3>
@@ -83,7 +83,7 @@ export default function Home() {
             </div>
             <div className="specialty-card">
               <div className="card-image">
-                <Image src="/images/interior-real.png" alt="Intérieur Pizzeria" width={400} height={250} />
+                <Image src="/Il_Soriso/images/interior-real.png" alt="Intérieur Pizzeria" width={400} height={250} />
               </div>
               <div className="card-content">
                 <h3>Tiramisu Maison</h3>

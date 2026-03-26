@@ -26,8 +26,8 @@ export default function HistoirePage() {
             </div>
             <div className="story-images">
             <div className="image-stack">
-                <Image src="/images/chef-real.png" alt="Massimo préparant une pizza" width={450} height={600} className="story-img-1" />
-                <Image src="/images/prep-real.png" alt="Préparation de la pizza" width={350} height={250} className="story-img-2" />
+                <Image src="/Il_Soriso/images/chef-real.png" alt="Massimo préparant une pizza" width={450} height={600} className="story-img-1" />
+                <Image src="/Il_Soriso/images/prep-real.png" alt="Préparation de la pizza" width={350} height={250} className="story-img-2" />
               </div>
             </div>
           </div>
